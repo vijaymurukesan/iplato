@@ -1,0 +1,17 @@
+html,
+body {
+  /* background-color: #282c34;
+  color: white; */
+}
+.App {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.detailsList span {
+    display: inline-block;
+    min-width: 200px;
+    padding: 1rem;
+}
+.detailsList:nth-child(even) {
+    background: rgb(199, 198, 198);
+}
